@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SeldomLimited</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="sign_out">Sign out</string>
+    <string name="employee_dashboard">Employee Dashboard</string>
+    <string name="this_week_s_initiatives">This week\\\'s initiatives</string>
+    <string name="employee_schedule">Employee Schedule</string>
+    <string name="company_culture">Company Culture</string>
+    <string name="tabian_consulting_sales_chart">Seldom Sales Chart</string>
+</resources>

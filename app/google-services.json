@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719939765508",
+    "firebase_url": "https://seldomlimited-6b188.firebaseio.com",
+    "project_id": "seldomlimited-6b188",
+    "storage_bucket": "seldomlimited-6b188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719939765508:android:19c579259f4ce048347c51",
+        "android_client_info": {
+          "package_name": "com.mumbi.seldomlimited"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719939765508-3ffn80ck2u0itbre7mke8va0t32t8eke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD57XOsFxGDXM6LcNQ-ySVDp57CTrV4EHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719939765508-3ffn80ck2u0itbre7mke8va0t32t8eke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
